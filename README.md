@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @C-ogutu
+- 👋 Hi, I’m @whoiscove
 - 👀 I’m a front-end developer
 - 🌱 I’m currently learning some backend so as to go fullstack!
 - 💞️ I’m looking to collaborate on anything and everything related to dev
