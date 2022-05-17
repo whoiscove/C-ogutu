@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @C-ogutu
-- 👀 I’m interested in coding anything and everything in this world
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a front-end developer
+- 🌱 I’m currently learning some backend so as to go fullstack!
+- 💞️ I’m looking to collaborate on anything and everything related to dev
+- 📫 How to reach me Mail: whoiscove@gmail.com 
 
 <!---
 C-ogutu/C-ogutu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
